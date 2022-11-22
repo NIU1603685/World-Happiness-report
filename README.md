@@ -6,3 +6,5 @@ Hacer regression y luego si da una regression fea hacer transformaciones de la v
 Como saber si la regression es fea ?
 Hacer graficas con y y y_pred
 Hacer graficas con y y el error
+
+https://www.kaggle.com/datasets/unsdsn/world-happiness
