@@ -1,14 +1,17 @@
 # World-Happiness-report
-The World Happiness Report is a landmark survey of the state of global happiness. The first report was published in 2012, the second in 2013, the third in 2015, and the fourth in the 2016 Update. 
 
-https://www.kaggle.com/datasets/unsdsn/world-happiness
+
+
 
 # Pràctica Kaggle APC UAB 2022-23
-### Nom: ***** ### DATASET: *****
-### URL: [kaggle](http://....)
+### Nom: Sofia Di Capua ### DATASET: World-Happiness-report
+### URL: https://www.kaggle.com/datasets/unsdsn/world-happiness
 ## Resum
-El dataset utilitza dades de...
+El World Happiness Report és un estudi històric de l'estat de la felicitat global. El primer informe es va publicar el 2012, el segon el 2013, el tercer el 2015, i encara continua.
+El dataset empreat consta de les dades recopilades des de l'any 2015 fins al 2019 i he inclós l'any 2020.
+
 Tenim X dades amb N atributs. Un % d'ells és categoric / els altres són numérics i estàn normalitzats...
+
 ### Objectius del dataset
 Volem aprender quina és la ...
 ## Experiments
