@@ -1,4 +1,4 @@
-Per a poder executar correctament el notebook cal tenir istalats els seguents python packages:
+Per a poder executar correctament el notebook cal tenir instal·lats els següents python packages:
 
 TensorFlow
 
@@ -6,7 +6,7 @@ Keras
 
 Lime
 
-En cas de no tenir-los instalats, empreeu les seguents comandes :
+En cas de no tenir-los instal·lats, empreu les següents comandes :
 
 !pip install tensorflow
 
