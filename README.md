@@ -25,15 +25,16 @@ He normalitzat les dades per a qué totes estiguin disperses en un rang de 0 a 1
 Les variables que tenen més correlació amb el Happiness Score (mitjana de felicitat d'un país) són : Economy (PIB per capita), Health (l'esperança de vida), Familiy (Suport Social) i Freedom (llibertat).
 També vaig realitzar una PCA (Principal Component Analysis), amb la qual vaig concloure que Trust i Generosity no eren tan necesàries per als models com les latres variables però no era segur descartar-les.
 ### Model
+![Underfitting+HO](https://user-images.githubusercontent.com/73697639/208115232-35027c99-a259-4af9-9cff-ac2575fe3c8f.PNG)
 | Model | Hiperparametres | Mètrica | Temps |
 | -- | -- | -- | -- |
+
 | [Random Forest](link) | 100 Trees, XX | 57% | 100ms |
 | Random Forest | 1000 Trees, XX | 58% | 1000ms |
 | SVM | kernel: lineal C:10 | 58% | 200ms |
 | -- | -- | -- | -- |
 | [model de XXX](link al kaggle) | XXX | 58% | ?ms |
 | [model de XXX](link al kaggle) | XXX | 62% | ?ms |
-![Underfitting+HO.PNG](attachment:Underfitting+HO.PNG)
 ## Conclusions
 El millor model que s'ha aconseguit ha estat...
 En comparació amb l'estat de l'art i els altres treballs que hem analitzat....
